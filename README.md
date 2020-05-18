@@ -11,4 +11,4 @@ This Repo Contains: Machine Learning Source Files & Weights, Mobile App Files (X
  *Coming Soon*
 
 ## Preview Page
-![alt text] (https://github.com/vedantbahel/Disease-Detective/blob/master/src/Cover.jpeg)
+![alt text](https://github.com/vedantbahel/Disease-Detective/blob/master/src/Cover.jpeg)
