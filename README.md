@@ -5,7 +5,7 @@ This Repo Contains: Machine Learning Source Files & Weights, Mobile App Files (X
 
 ## Research Paper: 
 *Under Editing Phase*
-*(Published in Springer's Advances in Intelligent Systems and Computing)*
+*(Has been accepted to get published in Springer's Advances in Intelligent Systems and Computing)*
 
 ## Video Preview:
  *Coming Soon* 
