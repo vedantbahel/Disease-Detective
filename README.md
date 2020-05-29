@@ -8,7 +8,8 @@ This Repo Contains: Machine Learning Source Files & Weights, Mobile App Files (X
 *(Has been accepted to get published in Springer's Advances in Intelligent Systems and Computing)*
 
 ## Video Preview:
- *Coming Soon* 
+ *Check out the video demonstration using this link* 
+ https://youtu.be/A3BL25rzp7g
 
 ## Preview Page
 ![alt text](https://github.com/vedantbahel/Disease-Detective/blob/master/src/Cover.jpeg)
