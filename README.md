@@ -9,6 +9,7 @@ This Repo Contains: Machine Learning Source Files & Weights, Mobile App Files (X
 
 ## Video Preview:
  *Check out the video demonstration using this link* 
+ 
  https://youtu.be/A3BL25rzp7g
 
 ## Preview Page
